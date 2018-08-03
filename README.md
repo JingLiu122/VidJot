@@ -1,5 +1,8 @@
 # VidJot
 ## Overview
-A simple web-app that can jotting down video ideas and then upload them to a registered account. Once jotted down an idea for a video, a user can edit or delete that idea. VidJot is also a live application on internet.
+VidJot is a web-app that can help the users to jotting down their video ideas for their future uploading (*Youtube, Twitch, etc.*). To create a quality video with strong content, the user better have to plan, script, and edit their ideas first before delivering it to the viewers. VidJot serves the purpose of that. Also if the users is a full-time or hard-core video uploader/editor, VidJot can help them to manage and organize their uploading schudle.
+VidJot is also a live application on internet: [links](URL_to_wiki)
+
+##Getting Started
 
 
