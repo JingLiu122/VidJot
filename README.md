@@ -20,11 +20,9 @@ On another terminal:
 ```
 npm install
 node app.js
+or
+npm start (if nodemon installed locally)
 ```
-- Or
-  ```
-  npm start (if nodemon installed locally)
-  ```
 ### Libraries
 
 ## Deployment
