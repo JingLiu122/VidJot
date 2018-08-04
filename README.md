@@ -5,11 +5,21 @@ VidJot is a web-app that can help the users to jotting down their video ideas fo
 VidJot is also a live application on the internet: [here is a link](https://evening-hollows-65498.herokuapp.com/).
 
 ## Getting Started
+Even though the application is live on the internet, the following instructions will ensure to get a copy of the project up and running on the local machine for the development, testing, and maintaince purposes.
+
+### Installing
+
 
 ### How To Run
-
+Run the following commands in terminal:
 ```
 node app.js
 ```
+Or
+```
+npm start
+```
+### Libraries
+
 ## Deployment
 This application is deployed by [Heroku](https://www.heroku.com/).
