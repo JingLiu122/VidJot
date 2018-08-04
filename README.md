@@ -13,11 +13,12 @@ Even though the application is live on the internet, the following instructions 
 ### How To Run
 Run the following commands in terminal:
 ```
+npm install
 node app.js
 ```
 Or
 ```
-npm start
+npm start (if nodemon install locally)
 ```
 ### Libraries
 
