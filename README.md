@@ -6,4 +6,10 @@ VidJot is also a live application on the internet: [here is a link](https://even
 
 ## Getting Started
 
+### How To Run
 
+```
+node app.js
+```
+## Deployment
+This application is deployed by [Heroku](https://www.heroku.com/).
