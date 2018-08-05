@@ -34,21 +34,33 @@ express-handlebars
 ```
 method-override
 ```
+* https://github.com/expressjs/method-override
+* allow to use HTTP verbs on the client side
 ```
 connect-flash
 ```
+* https://github.com/jaredhanson/connect-flash
+* used to send messages to views (alert a success or failure message)
 ```
 express-session
 ```
+* https://github.com/expressjs/session
+* used for establishing sessions with clients of the site and for authentication
 ```
 body-parser
 ```
+* https://github.com/expressjs/body-parser
+* used to retrieve the body of requests.
 ```
 passport
 ```
+* https://github.com/jaredhanson/passport
+* used for authenticate the credential request (with local strategy)
 ```
 mongoose
 ```
+* https://github.com/Automattic/mongoose
+* used to define schemas and create models that connects to the database
 
 ## Deployment
 This application is deployed by [Heroku](https://www.heroku.com/).
