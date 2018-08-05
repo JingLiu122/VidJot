@@ -8,7 +8,7 @@ VidJot is also a live application on the internet: [here is a link](https://even
 Even though the application is live on the internet, the following instructions will only serve to the local copy of the project up and running for development, testing, and maintance purposes.
 
 ### Prerequisites
-Install and setup MongoDB first for the app to function properly becuase the local app is connecting to the local mongodb, whereas the live one is connecting to the mLab.
+Install and setup MongoDB first for the application to function properly becuase the local app is connecting to the local mongodb, whereas the live one is connecting to the mLab.
   * [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/?_ga=2.235436548.4094096.1533414753-345378373.1529090851)
 
 ### How To Run
