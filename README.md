@@ -26,6 +26,13 @@ or
 npm start (if nodemon installed locally)
 ```
 ### Libraries
+* express-handlebars
+* method-override
+* connect-flash
+* express-session
+* body-parser
+* passport
+* mongoose
 
 ## Deployment
 This application is deployed by [Heroku](https://www.heroku.com/).
