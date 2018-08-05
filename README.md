@@ -64,3 +64,6 @@ mongoose
 
 ## Deployment
 This application is deployed by [Heroku](https://www.heroku.com/).
+
+## Acknowledgements
+This project was develope from a lecture "Node.js, Express & MongoDB Dev to Deployment" that instructed by Brad Traversy on [Udemy](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/). 
