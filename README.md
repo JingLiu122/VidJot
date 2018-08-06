@@ -2,7 +2,7 @@
 ## Overview
 VidJot is a web-app that can help the users to jot down their video ideas for their future uploading (*Youtube, Twitch, etc.*). To create a quality video with strong content, the user better has to plan, script, and edit their ideas first before delivering it to the viewers. VidJot serves the purpose of that. Also if the users is a full-time or hard-core video uploader/editor, VidJot can help them to manage and organize their uploading schedule.
 
-VidJot is also a live application on the internet: [here is a link](https://evening-hollows-65498.herokuapp.com/).
+VidJot is also a live application on the internet: [here is a link](https://evening-hollows-65498.herokuapp.com/) (no domain name yet).
 
 ## Getting Started
 Even though the application is live on the internet, the following instructions will only serve to the local copy of the project up and running for development, testing, and maintanence purposes.
