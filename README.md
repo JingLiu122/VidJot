@@ -25,6 +25,7 @@ node app.js
 or
 npm start (if nodemon installed locally)
 ```
+On the browser and type http://localhost:3000 on the URL path.
 ### Libraries
 ```
 express-handlebars
